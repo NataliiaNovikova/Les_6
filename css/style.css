@@ -1,0 +1,101 @@
+body{
+    font-family: "Lato", serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+.onlinecourse__container {
+    max-width: 810px;
+    margin: 0 auto;
+    color: #424551;
+    line-height: 160%;
+}
+.context__text{
+    max-width: 810px;
+    margin: 0 auto;
+    color: #424551;
+    line-height: 160%;
+    margin-bottom: 24px;
+}
+h1{
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    color: #1E212C;
+    margin-bottom: 40px;
+}
+.image{
+    max-width: 100%;
+    margin-bottom: 60px;
+}
+.bold {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1E212C;
+}
+.quote {
+    padding-left: 58px;
+    margin: 48px 0;
+}
+.list {
+    padding-left: 16px;
+}
+/* |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
+.experience{
+    border-top: 3px solid #000;
+}
+
+.max-height {
+    background: rgb(184, 7, 7);
+    max-height: 42px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.min-height {
+    background: rgb(7, 84, 184);
+    min-height: 48px;
+    margin-bottom: 20px;
+    overflow: scroll;
+}
+.overflow{
+    max-height: 42px;
+    overflow: auto;
+    background: rgb(70, 84, 14);
+    margin-bottom: 20px;
+}
+.inline {
+    display: block;
+    background: rgb(196, 240, 19);
+    margin: 20px;
+    outline: 10px double #0f39b9;
+    border-radius: 20px;
+    box-shadow: -50px 15px 20px 7px #000;
+}
+
+.block {
+    display: inline;
+    background: rgb(75, 14, 84);
+    color: #fff;
+}
+
+.inline-block {
+    display: inline-block;
+    background: rgb(151, 164, 96);
+    width: 500px;
+    height: 100px;
+    border-top: 7px dotted #024504;
+    border-right: 11px dashed pink;
+    border-bottom: 10px solid #0f39b9;
+    border-left: transparent;
+}
+
+.opacity{background: rgb(199, 172, 41);
+    opacity: 0.1;
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+.visibility{
+    visibility: hidden;
+}
